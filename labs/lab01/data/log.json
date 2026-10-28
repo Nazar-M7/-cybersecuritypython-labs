@@ -1,0 +1,12 @@
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-09-24 22:59:44", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-09-24 22:59:44", "args": ["user2", "wrong_password"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-09-24 23:08:46", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-09-24 23:08:46", "args": ["user2", "wrong_password"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-10-01 14:45:14", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-10-01 14:45:14", "args": ["user2", "wrong_password"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-10-01 15:04:08", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-10-01 15:04:08", "args": ["user2", "wrong_password"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-10-02 06:25:08", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-10-02 06:25:08", "args": ["user2", "wrong_password"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "success", "timestamp": "2026-10-02 06:34:29", "args": ["user2", "oaksjdalskjf123!3"], "kwargs": {}}
+{"event": "login", "user": "user2", "result": "failure", "timestamp": "2026-10-02 06:34:29", "args": ["user2", "wrong_password"], "kwargs": {}}
